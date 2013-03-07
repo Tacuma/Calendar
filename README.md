@@ -8,8 +8,8 @@ Data Structures/Concepts Used:
 Two Dimensional Array, Nested Loops, File I/O, Functions(Passing by reference)
 
 
-Description
-===========
+Description:
+============
 This program reads the file month_data.dat, which is a 
 a file which contains the number of days for each month of the year.
 The program prompts the user for the year, and the day of the week 
@@ -19,7 +19,7 @@ The program then proceeds to print a full calendar of
 that year.
 
 
-Output
+Output:
 ======
 	Tacuma Solomon
 	Computer Science 1 -  Introductory Programming
@@ -159,3 +159,19 @@ Output
 	() Not for Redistribution or Reuse.
 	
 	Press any key to continue . . .
+	
+Input:
+======
+#####month_data.dat
+	January 31
+	February 28
+	March 31
+	April 30
+	May 31
+	June 30
+	July 31
+	August 31
+	September 30
+	October 31
+	November 30
+	December 31
